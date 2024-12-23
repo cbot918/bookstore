@@ -4,7 +4,7 @@
 ### 1. 安裝 dotnet cli
 ### 2. 安裝 mysql server / mysql workbench
 
-## 起專案
+## 起空專案
 ```bash
 1. dotnet new webapi -n bookstore
 2. dotnet build
